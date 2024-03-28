@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971905591884",
+    "project_id": "foody-5bcc8",
+    "storage_bucket": "foody-5bcc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971905591884:android:5ece04ac33d6f505a822e9",
+        "android_client_info": {
+          "package_name": "com.rabbyte.foody"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjNdPBOovZ7w7Vj5sSAm6eepmMwdpOxIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
